@@ -1,42 +1,9 @@
-[Week 1 Home](./)
-
-# U1.W1: Cultural Blog: Chefs in the Kitchen
-
-## Learning Competencies
-- Consider DBC's culture and approach to learning
-- Predict how you will react to DBC's approach
-
-## Summary
-
-Dev Bootcamp does not simply try to teach people how to program. We also focus on the mind and body. In Phase 0 you will be introduced to various cultural topics you'll be expected to be familiar with or open to learning more about at Dev Bootcamp. Similarly to the technical blogs, you should try to time-box (limit yourself) to spending an hour on it.
-
-Note: This week's might be a little long if you watch the whole video, so watch what you need. You may want to skip the QA section at the end if you're short on time.
-
-## Release 0: Prepare your blog
-**Using ONLY your command line**
-
-- Navigate to your `[USERNAME].github.io/blog` directory
-- Add a new file called `c1-chefs-kitchen.md`
-- Copy the markdown template from [blog-template.md](blog-template.md) (in this repository) into your `c1-chefs-kitchen.md` file.
-
-
-## Release 1: Kitchen vs. Table
-Watch [Shereef's Fireside Chat](http://vimeo.com/85001014). This chat is over an hour long, so watch the parts your interested in and make sure to leave time for writing your blog!
-
-## Release 2: Write
+## Write
 
 Based on the video, what's your take on the DBC experience? What is your impression of DBC? How do you see yourself engaging with this type of culture?
 Have your expectations of DBC changed? If so, how? Are you excited to participate in this kind of learning environment? Does it make you nervous?
-
 Talk about what came up for you and anything you want in addition to the questions above.
 
-## Release 3: Publish
-
-Don't forget to add, commit, and push your changes to make them live on your github.io site. Double-check that you can see your page when you visit:
-
-[USERNAME].github.io/blog/c1-chefs-kitchen.md
-
-## Release 4: Promote
-Now it's time to show off your work and share your knowledge with your cohortmates using Twitter!
-
-Tweet your blog post using **#DBCFireside**.
+Based on the video, the DBC experience matches what I have seen observed so far. That is a good thing and I am excited about it. To use the metaphor given, I was very good and disciplined about being at the kitchen in terms of finding ways to get into the software development industry. Because all of my past educational experiences have been very traditional and more "table" like, I might have started to slip into a table/consumer mindset. This blog is good, because I did not realize it was happening until the dichotmoy was explained.
+I am very excited about the collaborative environment for learning on site. I know, personally, I could potentially not be as engaged learning by myself, however I have time management techinques thanks to DBC to manage that.
+Another thought I have on this: I played a lot of sports as a child all the way to collegiate lacrosse. The learning environment is different there than in the class room for many reasons. The reason I bring it up, is I think those experiences will help me learn and think about learning in different ways. I think the team sports environment is a more realistic way to learn and I always enjoyed learning where there was always tons of feedback (I lvoed getting yelled at on the field) also there are specific goals in mind. It seemed like a much more realistic learning environment. I see this more realistic learning environment at DBC.
