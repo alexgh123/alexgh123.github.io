@@ -1,0 +1,32 @@
+/*div {
+ border:1px dashed black;
+}
+
+#my-picture {
+  float:right;
+  display: inline-block;
+  position: static;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+*/
+
+/* #title {
+  display:inline-block;
+  position: static;
+  margin:auto;
+} */
+
+#left-column {
+  display: inline-block;
+  float:left;
+  position: relative;
+  /*margin-left: 10%;*/
+}
+
+#right-column {
+  display: inline-block;
+  float:right;
+  position: relative;
+  /*margin-right: 10%;*/
+}
