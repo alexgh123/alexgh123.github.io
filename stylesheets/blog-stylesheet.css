@@ -30,4 +30,8 @@ a {
   /* I want margins on this text, black is fine*/
 }
 
+#twitter {
+  width: 10px;
+  height: 10px;
+}
 /*down the line, I should have a picture background*/
