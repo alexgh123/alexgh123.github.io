@@ -7,60 +7,60 @@
 
       <div id="blog_title">Arrays and Hashes</div>
       <div id="date"><a>10.3.14</a></div>
-      <div id="blog-body">Alrighty!
+      <div id="blog-body">Alrighty! <br>
 
-Arrays and Hashes in Ruby. What are we talking about? Well, as I am instructed, I am writing to a non-technical audience. So, we will be discussing some concepts that are necessary to understand in order to understand Arrays and Hashes (understand things to understand other things…).
+Arrays and Hashes in Ruby. What are we talking about? Well, as I am instructed, I am writing to a non-technical audience. So, we will be discussing some concepts that are necessary to understand in order to understand Arrays and Hashes (understand things to understand other things…). <br>
 
-First, I am going to draw a line in the sand for understanding. We are talking about programming languages for computers. If I have to explain all of the assumptions that those two ideas are built on, you are not my reader. Sorry.
+First, I am going to draw a line in the sand for understanding. We are talking about programming languages for computers. If I have to explain all of the assumptions that those two ideas are built on, you are not my reader. Sorry.<br>
 
 Second, let me introduce a problem to frame our discussion. How do we store lots of information to be called on later in our programing languages/computers? Obviously, or maybe not obviously, you can increase a programs abilities if it can pull on more information. To think about this another way, in an age before computers, people could navigate on their own without much help and sometimes it would work; their navigation skills greatly improved with tools such as maps and stars to assist their navigating abilities. What we are doing her in this discussion of arrays and hashes is to describe two methods (to continue the metaphor:maps and stars) that help us store information and recall it at a later time for whatever our purpose is (navigating if this is the map example).
-
+<br>
 So, the problem is; how do we store this information and pull it up when we want it? Ruby has given us two ways to do that: Arrays and Hashes. Both of these methods use an idea that typically, there is something easy to remember and hard to remember (think of a map, It is easy to remember a region or general area of a map, but if you need to navigate there, you need very specific precise information. When you pull up the map, you can get the precise information). In the same way, arrays and hashes use an easy to remember thing: a key, and a hard to remember thing: a value. (To go back to the map example, the key might be just the general map, and then the specifics of the map could be all of the values that are important to you.
-
+<br>
 So, hashes and arrays use this concept of keys and values for easy to remember and hard to remember stuff. Now we are going to talk about the differences between the two.
-
+<br>
 We’ll start with Arrays because they are a little easier to understand. The keys for arrays are integers starting with zero. The integers are always in order, starting with 0 until there are no more values to be assigned. The values can be other numbers, words, other “things” that are used in programming. So, if we had an array of the values (in order) of dog, ball, park, grass, the key values would be 0,1,2,3. Think about that.
-
+<br>
 So, when I call the array for key 0, I will get the word dog. 3 will give me grass. And so on. I think you should get it.
-
+<br>
 Now you might be wondering, “well I don’t want a stupid NUMBER to be my key, I want to get crazy in how I assign keys to my values”. Well, let me tell you, you are in luck, you do not have to have a number assigned to the things that are hard to remember. That is where Hashes come in.
-
+<br>
 With Hashes, you can be as arbitrary as you want with assigning the easy to remember key to the hard to remember value. Further, the key value pairs are stored in the order you put them into the Hash. So, for example, the information we want to store might be girls I have dated. I am told I am supposed to remember their name, and less important are the details about them. Sadly, however, my brain doesn’t work like that. I typically remember interesting things about them, and forget their name. So, a hash can help me!
-
+<br>
 What I will do in my (Im going to name my array, see what comes next) dates_with_girls hash is have my key be something I can remember easily and the value be the name of the girl. So the key will be something interesting about them, and the value will be their name.
-
+<br>
 So my keys and values might be: lived_in_5_countries:Donna, doesn’t_eat: Rachel, smells_like_cabbage:Annie. Now I have a method to pull up the names of the girls I have dated.
-
+<br>
 So in closing, arrays and hashes help you store information and remember it by having a hard to remember piece of information paired with an easy to remember piece of information. Further, Arrays use integers as the keys (the easy to remember part) and Hashes use what ever you want as keys to remember the values (the hard to remember part).
-
+<br>
 
 Below is the syntax of arrays and hashes from code academy:
 Syntax just means how it is typed.
-
+<br>
 Arrays:
-
+<br>
 ‘demo_array = [100, 200, 300, 400, 500]’
-
+<br>
 ‘print demo_array[2]’
-
+<br>
 #this will give you the number 300!
-
+<br>
 Hashes:
-
+<br>
 ‘pets = Hash.new’
-
+<br>
 you are creating a new hash called pets
-
+<br>
 ‘pets["ginger"] = "the best"
 pets["lightbulb"] = "RIP"
 pets["cats"] = "evil" ‘
-
+<br>
 here you are assigning values (in this case adjectives/descriptions) to keys (animals)
-
+<br>
 ' puts pets["ginger"]
 puts pets["lightbulb"]
 puts pets["cats”] '
-
+<br>
 here you are calling the key (the animal) and you will get the value associated with it in the output of the program
       </div>
 
