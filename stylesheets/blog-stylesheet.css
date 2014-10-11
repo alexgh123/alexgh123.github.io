@@ -12,9 +12,9 @@ div {
 }
 
 a {
-  margin-left:10%;
-  margin-right: 10%;
-  /*I want the text to be centered*/
+  display:block;
+  text-align:center;
+  /*I want the text to be centered...*/
 }
 
 #date {
