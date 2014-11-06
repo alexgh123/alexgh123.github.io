@@ -12,6 +12,7 @@ h3{
  font-familly:Papyrus;
  text-align:center;
  font-style:bolder;
+ font-size:22pt;
 }
 
 p {
@@ -19,6 +20,15 @@ p {
    font-size:18pt;
 }
 
+# contact{
+text-align:center;
+}
+# content{
+ border:2px solid red;
+}
+
 div {
+
+    padding:50px;
 
 }
