@@ -29,6 +29,10 @@ display:block;
 
 }
 
+#linkedIn1 {
+  width: 1 %;
+}
+
 /* footer*/
 #contact {
   bottom: 10px;
